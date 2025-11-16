@@ -14,15 +14,6 @@ Focus Drive는 졸음 운전 사고를 예방하고자, 운전자의 눈 상태�
 - GCP AutoML Vision으로 졸음 상태 분류
 - 졸음 감지 시 경고음 출력
 
----
-
-## 시연 영상 및 서비스 화면
-
-Focus Drive가 실시간으로 작동하는 모습은 아래 영상과 이미지로 확인할 수 있다.
-
-- [시연 영상 보기](https://youtu.be/KYvnuyHBH5s)
-
-<img width="800" alt="서비스 실행 화면 캡처" src="https://github.com/user-attachments/assets/105bd643-4d83-4d26-8349-097687b6afe0" />
 
 ---
 
